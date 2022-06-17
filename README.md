@@ -1,2 +1,4 @@
 # JohnDoe
-Demo (https://demo-johndoe.netlify.app/) réalisé par Grégoire Barré
+Projet personnel HTML & CSS
+
+Demo : https://demo-johndoe.netlify.app/
